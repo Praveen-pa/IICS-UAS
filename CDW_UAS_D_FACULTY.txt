@@ -1,0 +1,9 @@
+FACULTY_CODE|FACULTY_NAME|FACULTY_DESIGNATION|FACULTY_QUALIFICATION
+100001234|Dr.Amit Sharma|Professor of Mathematics|PhD in Applied Physics
+100001235|Prof.Anjali Gupta|Associate Professor of Physics|MSc in Quantum Mechanics
+100001236|Mr.Rajesh Kulkarni|Assistant Professor of English|MA in Literature     
+100001237|Ms.Sneha Patil|Lecturer of Chemistry|MSc in Organic Chemistry
+100001238|Dr.Meena Reddy|Professor of Computer Science|PhD in Artificial Intelligence
+100001239|Mr.Karan Deshmukh|Assistant Professor of History|MA in Modern History
+100001240|Prof.Priya Iyer|Associate Professor of Sociology|MA in Social Work    
+100001241|Dr.Vikram Singh|Professor of Mechanical Engineering|PhD in Fluid Dynamics
