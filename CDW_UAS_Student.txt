@@ -1,0 +1,13 @@
+STUD_F_NAME,STUD_M_NAME,STUD_L_NAME,STUD_ROLLNO,APARTMENT_NO,STUD_STREET,STUD_CITY,STUD_STATE,STUD_COUNTRY,STUD_ZIP,STUD_PHONE,STUD_EMAIL
+Sanoop,HM,Ananth,2387352,40/1,Nagasandra,Bengaluru,Karnataka,India,560073,9606199672,sanoopananth2003@gmail.com
+Bharath,J,Ramalinjam,2387455,21/7,Yelahanka,Bengaluru,Karnataka,India,560041,9900112233,BharathBarry@gmail.com
+ABC,DEF,GHI,2387353,18,Nagasandra,Bengaluru,Karnataka,India,560051,9900112244,abcd05@gmail.com
+John,Michael,Doe,123456789,Maple Street,101,Bengaluru,Karnataka,India,560001,9876543210,johndoe@example.com
+Jane,Elizabeth,Smith,987654321,Oak Avenue,202,Chennai,Tamil Nadu,India,600001,8765432109,janesmith@example.com
+Robert,William,Brown,234567890,Pine Road,303,SOUTH DELHI,Delhi,India,110001,7654321098,robertbrown@example.com
+Emily,Charlotte,Johnson,876543210,Birch Lane,404,Mumbai,Maharashtra,India,400001,6543210987,emilyjohnson@example.com
+Michael,James,Garcia,345678901,Cedar Drive,505,Kolkata,West Bengal,India,700001,5432109876,michaelgarcia@example.com
+Sophia,Grace,Williams,760032109,Willow Boulevard,606,Hyderabad,Telangana,India,500001,4321098765,sophiawilliams@example.com
+Davi,Henry,Martinez,456789012,Elm Road,707,Pune,Maharashtra,India,411001,3210987654,davidmartinez@example.com
+Olivia,Rose,Taylor,654321098,Cherry Avenue,808,Ahmedabad,BUTHAN,India,380001,2109876543,oliviataylor@example.com
+Daniel,Edward,Wilson,567890123,Aspen Court,909,Surat,Gujarat,India,395001,1098765432,danielwilson@example.com
