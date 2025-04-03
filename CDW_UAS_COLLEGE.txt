@@ -1,0 +1,11 @@
+COLLEGE_CODE|COLLEGE_NAME|COLLEGE_STREET|COLLEGE_CITY|COLLEGE_STATE|COLLEGE_ZIP|COLLEGE_PHONE
+613058635|Mountainview|7821 College St|Greenwood|Illinois|95950|8479482253
+622118061|Springfield College|6606 College St|Riverside|Florida|49312|2882890737
+322864222|Lakeside Institute|6036 College St|Riverside|New York|54853|5162102450
+914190009|Lakeside Institute|3917 College St|Springfield|New York|38045|9881094753
+194693762|Mountainview College|5776 College St|Riverside|California|83701|2726126100
+523576293|Greenwood College|9727 College St|Riverside|Florida|94723|8215495316
+995524394|Riverside Engineering|1487 College St|Riverside|Illinois|69742|6786110576
+830853347|Springfield College|6578 College St|Greenwood|California|15411|8188296954
+935262977|Springwood College|229 College St|Springfield|Illinois|96179|8806142927
+844047420|Mountainside College|5849 College St|Mountainview|Texas|43392|7436278917
