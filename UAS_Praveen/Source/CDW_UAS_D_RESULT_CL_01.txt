@@ -1,0 +1,4 @@
+TIME_KEY,Student_Roll,DEPARTMENT_No,COLLEGE_NAME,COURSE_NAME,FACULTY_NAME,RESULT_MARKS
+20240115,2387352,1000001,Mountainview,	 Classical Physics,Dr.Amit Sharma,80
+20240228,2387455,1000002,Springfield College,Calculus I,Prof.Anjali Gupta,87
+20240312,2387353,1000003,Lakeside Institute,Creative Writing,Mr.Rajesh Kulkarni,45

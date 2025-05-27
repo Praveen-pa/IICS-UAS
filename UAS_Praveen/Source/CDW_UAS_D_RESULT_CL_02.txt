@@ -1,0 +1,4 @@
+TIME_KEY,Student_Roll,DEPARTMENT_No,COLLEGE_NAME,COURSE_NAME,FACULTY_NAME,RESULT_MARKS
+20240507,987654321,1000005,Greenwood College,Algorithms,Dr.Meena Reddy,76
+20240619,234567890,1000006,Riverside Engineering,Ancient Civilizations,Mr.Karan Deshmukh,78
+20240703,876543210,1000007,Springfield College,Social Research Methods,Prof.Priya Iyer,89

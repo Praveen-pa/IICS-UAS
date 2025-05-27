@@ -1,0 +1,9 @@
+DEPARTMENT_NAME,DEPARTMENT_NO,DEPARTMENT_PHONE,DEPARTMENT_HOD
+Physics,1000001,9123456789,Dr.Amit Sharma
+Mathematics,1000002,9876543210,Prof.Anjali Gupta
+English,1000003,9234567890,Mr.Rajesh Kulkarni
+Chemistry,1000004,9786543211,Ms.Sneha Patil
+Computer Science,1000005,9123678901,Dr.Meena Reddy
+History,1000006,9987654321,Mr.Karan Deshmukh
+Sociology,1000007,9134567892,Prof.Priya Iyer
+Mechanical Engineering,1000008,9898765432,Dr.Vikram Singh

@@ -1,0 +1,17 @@
+COURSE_CODE,COURSE_NAME,DEPARTMENT_NO,MARK_REQ
+101,Quantum Physics,1,60
+102, Classical Physics ,1,60
+201,Calculus I,2,60
+201,Linear Algebra,2,60
+301,English Literature,3,60
+302,Creative Writing,3,60
+401,Organic Chemistry,4,60
+402,Inorganic Chemistry,4,60
+501,Data Structures,5,60
+502,Algorithms,5,60
+601,World History,6,60
+602,Ancient Civilizations,6,60
+701,Sociological Theories,7,60
+702,Social Research Methods,7,60
+801,Thermodynamics,8,60
+802,Fluid Mechanics,8,60
